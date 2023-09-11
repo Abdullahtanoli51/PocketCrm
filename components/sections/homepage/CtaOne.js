@@ -13,8 +13,7 @@ export default function CtaOne() {
                                     </div>
                                     <h2 className="sectionHeading__title">Download the App</h2>
                                     <p className="sectionHeading__text mt-20">
-                                        New features. New appearance. No risk and
-                                        <br /> credit card required.
+                                        New features. New appearance. 
                                     </p>
                                 </div>
                                 <div className="row y-gap-10 mt-32">

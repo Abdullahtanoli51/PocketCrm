@@ -61,7 +61,7 @@ export default function Footer11() {
                                     </h3>
                                     <div className="footer__content y-gap-10 mt-40">
                                         <div className="footer__content__item text-white">
-                                            <Link className="decoration-none" href="/terms">
+                                            <Link className="decoration-none" href="/use_of_terms">
                                                 Terms of use
                                             </Link>
                                         </div>
@@ -71,7 +71,7 @@ export default function Footer11() {
                                             </Link>
                                         </div>
                                         <div className="footer__content__item text-white">
-                                            <Link className="decoration-none" href="/terms">
+                                            <Link className="decoration-none" href="/Privacy-policy">
                                                 Privacy policy
                                             </Link>
                                         </div>
@@ -151,7 +151,7 @@ export default function Footer11() {
                         <div className="row justify-center py-30 border-top-light mt-120 md:mt-60">
                             <div className="col-auto">
                                 <div className="footer__bottom_text text-white">
-                                    © Copyright 2023. Sassio - NextJS template by AliThemes
+                                    © Copyright 2023. Pocket CRM 
                                 </div>
                             </div>
                         </div>

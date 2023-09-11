@@ -54,14 +54,14 @@ export default function Footer6() {
                                     <h3 className="footer__title text-xl lh-1 fw-600">Legal</h3>
                                     <div className="footer__content y-gap-10 mt-40">
                                         <div className="footer__content__item">
-                                            <Link className="decoration-none" href="terms">Terms of use</Link>
+                                            <Link className="decoration-none" href="/use_of_terms">Terms of use</Link>
                                         </div>
                                         <div className="footer__content__item">
                                             <Link className="decoration-none" href="terms">Terms &amp;
                                                 conditions</Link>
                                         </div>
                                         <div className="footer__content__item">
-                                            <Link className="decoration-none" href="terms">Privacy
+                                            <Link className="decoration-none" href="/Privacy-policy">Privacy
                                                 policy</Link>
                                         </div>
                                         <div className="footer__content__item">
@@ -118,7 +118,7 @@ export default function Footer6() {
                         </div>
                         <div className="row justify-center py-30 mt-40">
                             <div className="col-auto">
-                                <div className="footer__bottom_text">© Copyright 2023. Sassio - NextJS template by AliThemes</div>
+                                <div className="footer__bottom_text">© Copyright 2023. Pocket CRM </div>
                             </div>
                         </div>
                     </div>

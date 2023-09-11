@@ -18,8 +18,9 @@ export default function Menu({ navColor }) {
             </li>
 
             <li className={`${navColor} `}>
-              <Link href="/terms">Terms &amp; conditions</Link>
+              <Link href="/terms">Terms &amp; condition</Link>
             </li>
+            
 
             <li className={`${navColor} `}>
               <Link href="/blogs">Blog</Link>
@@ -27,6 +28,7 @@ export default function Menu({ navColor }) {
             <li className={`${navColor}`}>
               <Link href="/contact">Contact</Link>
             </li>
+
           </ul>
         </div>
         <div className="mobile__footer js-mobile-footer">

@@ -22,10 +22,11 @@ export default function AccordionOne() {
                                             <img src="/img/home-1/features/laptop.svg" alt="icon" />
                                         </div>
                                         <div>
-                                            <h4 className="text-xl fw-600 lh-1">Themes Made Easy</h4>
+                                            <h4 className="text-xl fw-600 lh-1">Agency Broucher Generator
+</h4>
                                             <p className="mt-12">
-                                                Our astonishing style structure makes your customization
-                                                process a breeze
+                                            Pocket CRM introduces an innovative Real Estate Agency Brochure Generator, enabling you to design stunning Real Estate promotional materials in minutes. 
+
                                             </p>
                                         </div>
                                     </div>
@@ -41,10 +42,13 @@ export default function AccordionOne() {
                                             <img src="/img/home-1/features/pencil.svg" alt="icon" />
                                         </div>
                                         <div>
-                                            <h4 className="text-xl fw-600 lh-1">Powerful Design</h4>
+                                            <h4 className="text-xl fw-600 lh-1">Facebook ads Generator
+
+
+</h4>
                                             <p className="mt-12">
-                                                With ready-to-use content you'll deploy your
-                                                implementation in no time
+                                            Revolutionize Your Facebook Advertising with the Facebook Ads Generator. Effortlessly design eye-catching Real Estate Property brochures and target your audience with precision, resulting in highly effective campaigns that boost engagement, drive conversions, and drive your business to new heights.
+
                                             </p>
                                         </div>
                                     </div>
@@ -60,10 +64,11 @@ export default function AccordionOne() {
                                             <img src="/img/home-1/features/shapes.svg" alt="icon" />
                                         </div>
                                         <div>
-                                            <h4 className="text-xl fw-600 lh-1">Creative Content</h4>
+                                            <h4 className="text-xl fw-600 lh-1">Invoice generator
+</h4>
                                             <p className="mt-12">
-                                                Repetitive styles all across the web? Nevermind that!
-                                                Shine with unique styles
+                                            With Pocket CRM's intuitive invoice generator, creating professional and customizable real estate invoices becomes a breeze. Efficiently bill clients, include itemized details, and track payment statuses on the go. 
+
                                             </p>
                                         </div>
                                     </div>

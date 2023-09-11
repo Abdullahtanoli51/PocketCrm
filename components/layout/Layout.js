@@ -40,16 +40,16 @@ export default function Layout({ headerLayout=1, footerLayout, children, bgColor
             <div className="barba-container">
                 <main className='main-content'>
                     {!headerLayout && < Header1 navColor={navColor} scroll={scroll} logo={logo} navToggled={navToggled} navHandle={navHandle} />}
-                    {headerLayout == 1 ? < Header1 navColor={navColor} scroll={scroll} logo={logo} navToggled={navToggled} navHandle={navHandle} /> : null}
-                    {headerLayout == 2 ? < Header2 navColor={navColor} scroll={scroll} logo={logo} navToggled={navToggled} navHandle={navHandle} /> : null}
-                    {headerLayout == 3 ? < Header3 navColor={navColor} scroll={scroll} logo={logo} navToggled={navToggled} navHandle={navHandle} /> : null}
-                    {headerLayout == 4 ? < Header4 navColor={navColor} scroll={scroll} logo={logo} navToggled={navToggled} navHandle={navHandle} /> : null}
-                    {headerLayout == 5 ? < Header5 navColor={navColor} scroll={scroll} logo={logo} navToggled={navToggled} navHandle={navHandle} /> : null}
-                    {headerLayout == 6 ? < Header6 navColor={navColor} scroll={scroll} logo={logo} navToggled={navToggled} navHandle={navHandle} /> : null}
-                    {headerLayout == 7 ? < Header7 navColor={navColor} scroll={scroll} logo={logo} navToggled={navToggled} navHandle={navHandle} /> : null}
-                    {headerLayout == 8 ? < Header8 navColor={navColor} scroll={scroll} logo={logo} navToggled={navToggled} navHandle={navHandle} /> : null}
-                    {headerLayout == 9 ? < Header9 navColor={navColor} scroll={scroll} logo={logo} navToggled={navToggled} navHandle={navHandle} /> : null}
-                    {headerLayout == 10 ? < Header10 navColor={navColor} scroll={scroll} logo={logo} navToggled={navToggled} navHandle={navHandle} /> : null}
+                    {headerLayout == 1 ? < Header1 navColor={navColor} scroll={scroll}  navToggled={navToggled} navHandle={navHandle} /> : null}
+                    {headerLayout == 2 ? < Header2 navColor={navColor} scroll={scroll}  navToggled={navToggled} navHandle={navHandle} /> : null}
+                    {headerLayout == 3 ? < Header3 navColor={navColor} scroll={scroll}  navToggled={navToggled} navHandle={navHandle} /> : null}
+                    {headerLayout == 4 ? < Header4 navColor={navColor} scroll={scroll}  navToggled={navToggled} navHandle={navHandle} /> : null}
+                    {headerLayout == 5 ? < Header5 navColor={navColor} scroll={scroll}  navToggled={navToggled} navHandle={navHandle} /> : null}
+                    {headerLayout == 6 ? < Header6 navColor={navColor} scroll={scroll}  navToggled={navToggled} navHandle={navHandle} /> : null}
+                    {headerLayout == 7 ? < Header7 navColor={navColor} scroll={scroll}  navToggled={navToggled} navHandle={navHandle} /> : null}
+                    {headerLayout == 8 ? < Header8 navColor={navColor} scroll={scroll}  navToggled={navToggled} navHandle={navHandle} /> : null}
+                    {headerLayout == 9 ? < Header9 navColor={navColor} scroll={scroll}  navToggled={navToggled} navHandle={navHandle} /> : null}
+                    {headerLayout == 10 ? < Header10 navColor={navColor} scroll={scroll}  navToggled={navToggled} navHandle={navHandle} /> : null}
                     {headerLayout == 11 ? < Header11 navColor={navColor} scroll={scroll} logo={logo} navToggled={navToggled} navHandle={navHandle} /> : null}
 
                     {verticalLine &&

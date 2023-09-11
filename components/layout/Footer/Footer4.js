@@ -115,14 +115,14 @@ export default function Footer4() {
                                     <h3 className="footer__title text-xl lh-1 fw-600">Legal</h3>
                                     <div className="footer__content y-gap-10 mt-40">
                                         <div className="footer__content__item">
-                                            <Link className="decoration-none" href="#">Terms of use</Link>
+                                            <Link className="decoration-none" href="use_of_terms">Terms of use</Link>
                                         </div>
                                         <div className="footer__content__item">
                                             <Link className="decoration-none" href="#">Terms &amp;
                                                 conditions</Link>
                                         </div>
                                         <div className="footer__content__item">
-                                            <Link className="decoration-none" href="#">Privacy policy</Link>
+                                            <Link className="decoration-none" href="/Privacy-policy">Privacy policy</Link>
                                         </div>
                                         <div className="footer__content__item">
                                             <Link className="decoration-none" href="#">Coolie policy</Link>

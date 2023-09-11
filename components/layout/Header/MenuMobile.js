@@ -190,6 +190,17 @@ export default function MenuMobile({navToggled }) {
                                     </Link>
                                 </li>
                                 <li className="nav__submenu_item">
+                                    <Link href="/use_of_terms">
+                                        Terms &amp; conditions
+                                    </Link>
+                                </li>
+                                <li className="nav__submenu_item">
+                                    <Link href="/Privacy-policy">
+                                        Terms &amp; conditions
+                                    </Link>
+                                </li>
+
+                                <li className="nav__submenu_item">
                                     <Link href="/login">
                                         Login
                                     </Link>

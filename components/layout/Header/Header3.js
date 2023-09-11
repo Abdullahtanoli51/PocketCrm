@@ -1,7 +1,7 @@
 import Link from "next/link";
-import Logo from "./Logo";
 import Menu from "./Menu";
 import MenuMobile from './MenuMobile';
+import Logo from "./Logo";
 
 import * as Icon from 'react-feather';
 export default function Header3({ navColor, logo, scroll, navToggled, navHandle }) {

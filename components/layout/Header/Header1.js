@@ -1,5 +1,5 @@
 
-import Logo from './Logo';
+
 import Menu from './Menu';
 import MenuMobile from './MenuMobile';
 import * as Icon from 'react-feather';
@@ -11,9 +11,7 @@ export default function Header({ navColor, logo, scroll, navToggled, navHandle }
             <header className={`header js-header ${scroll ? "is-sticky" : ""} ${navToggled ? "menu-open" : ""}`}>
                 <div className="header__bar js-header-bar">
                     <div className="row justify-between items-center">
-                        <div className="col-2">
-                            <Logo logo={logo} />
-                        </div>
+                        
                         <Menu navColor={navColor} />
                         <MenuMobile navToggled={navToggled} />
 

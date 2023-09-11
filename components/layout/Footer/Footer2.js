@@ -102,7 +102,7 @@ export default function Footer2() {
                                     </h3>
                                     <div className="footer__content y-gap-10 mt-40">
                                         <div className="footer__content__item text-white">
-                                            <Link className="decoration-none" href="/terms">
+                                            <Link className="decoration-none" href="/use_of_terms">
                                                 Terms of use
                                             </Link>
                                         </div>
@@ -112,7 +112,7 @@ export default function Footer2() {
                                             </Link>
                                         </div>
                                         <div className="footer__content__item text-white">
-                                            <Link className="decoration-none" href="/terms">
+                                            <Link className="decoration-none" href="/Privacy-policy">
                                                 Privacy policy
                                             </Link>
                                         </div>
